@@ -4,3 +4,4 @@
 2024-06-06 hotfix
 2024-06-18 cache the lookups
 2024-06-18 guard against None
+2024-06-29 handle empty response

@@ -7,3 +7,4 @@
 2024-06-04 revert
 2024-06-18 pagination fix
 2024-06-27 handle empty response
+2024-08-03 guard against None

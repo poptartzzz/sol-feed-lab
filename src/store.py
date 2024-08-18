@@ -6,3 +6,4 @@
 2024-06-18 guard against None
 2024-06-29 handle empty response
 2024-06-29 typo
+2024-08-18 add retry on 429

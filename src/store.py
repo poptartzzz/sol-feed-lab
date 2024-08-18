@@ -7,3 +7,4 @@
 2024-06-29 handle empty response
 2024-06-29 typo
 2024-08-18 add retry on 429
+2024-08-18 docs

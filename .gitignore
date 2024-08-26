@@ -10,3 +10,4 @@
 2024-08-16 docs
 2024-08-21 typo
 2024-08-21 drop unused import
+2024-08-26 move config to env

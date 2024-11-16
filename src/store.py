@@ -9,3 +9,4 @@
 2024-08-18 add retry on 429
 2024-08-18 docs
 2024-10-21 wire up queue
+2024-11-16 move config to env

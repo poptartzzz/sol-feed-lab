@@ -9,3 +9,4 @@
 2024-06-27 handle empty response
 2024-08-03 guard against None
 2024-09-28 wip
+2024-11-20 cache the lookups

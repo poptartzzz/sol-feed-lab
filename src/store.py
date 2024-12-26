@@ -10,3 +10,4 @@
 2024-08-18 docs
 2024-10-21 wire up queue
 2024-11-16 move config to env
+2024-12-26 small perf pass

@@ -7,3 +7,4 @@
 2025-01-13 backoff on failure
 2025-01-21 migration
 2025-01-22 drop unused import
+2025-02-09 guard against None

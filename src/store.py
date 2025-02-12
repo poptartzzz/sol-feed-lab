@@ -11,3 +11,4 @@
 2024-10-21 wire up queue
 2024-11-16 move config to env
 2024-12-26 small perf pass
+2025-02-12 add retry on 429

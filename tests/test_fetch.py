@@ -8,3 +8,4 @@
 2025-01-21 migration
 2025-01-22 drop unused import
 2025-02-09 guard against None
+2025-02-12 add retry on 429

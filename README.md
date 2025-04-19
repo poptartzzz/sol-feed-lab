@@ -16,3 +16,4 @@
 2025-04-02 wip 2
 2025-04-02 dockerfile
 2025-04-12 fix timezone bug
+2025-04-19 backoff on failure

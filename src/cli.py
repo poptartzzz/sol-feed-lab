@@ -9,3 +9,4 @@
 2025-03-05 reduce noise
 2025-04-02 reduce noise
 2025-04-02 small perf pass
+2025-04-22 split the fetcher out

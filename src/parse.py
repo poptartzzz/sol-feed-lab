@@ -7,3 +7,4 @@
 2024-08-30 cleanup dead code
 2024-11-30 docs
 2024-12-26 handle empty response
+2025-04-22 guard against None

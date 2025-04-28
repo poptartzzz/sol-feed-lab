@@ -8,3 +8,4 @@
 2024-11-30 docs
 2024-12-26 handle empty response
 2025-04-22 guard against None
+2025-04-28 hotfix

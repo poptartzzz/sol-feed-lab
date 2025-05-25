@@ -9,3 +9,4 @@
 2024-12-26 handle empty response
 2025-04-22 guard against None
 2025-04-28 hotfix
+2025-05-25 split the fetcher out

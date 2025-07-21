@@ -15,3 +15,4 @@
 2025-04-22 drop unused import
 2025-07-07 small perf pass
 2025-07-21 small perf pass
+2025-07-21 guard against None

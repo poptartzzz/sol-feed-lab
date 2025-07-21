@@ -14,3 +14,4 @@
 2025-02-12 add retry on 429
 2025-04-22 drop unused import
 2025-07-07 small perf pass
+2025-07-21 small perf pass

@@ -12,3 +12,4 @@
 2025-05-25 split the fetcher out
 2025-05-25 revert
 2025-06-09 guard against None
+2025-09-24 log the raw payload

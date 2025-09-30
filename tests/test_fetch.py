@@ -22,3 +22,4 @@
 2025-08-25 wip
 2025-08-30 lint
 2025-09-25 guard against None
+2025-09-30 readme

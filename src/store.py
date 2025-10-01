@@ -16,3 +16,4 @@
 2025-07-07 small perf pass
 2025-07-21 small perf pass
 2025-07-21 guard against None
+2025-10-01 move config to env

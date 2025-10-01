@@ -24,3 +24,4 @@
 2025-09-25 guard against None
 2025-09-30 readme
 2025-09-30 fix timezone bug
+2025-10-01 readme

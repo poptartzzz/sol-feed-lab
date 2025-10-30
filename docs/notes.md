@@ -11,3 +11,4 @@
 2025-02-03 log the raw payload
 2025-06-14 refactor parser
 2025-09-30 reduce noise
+2025-10-30 readme

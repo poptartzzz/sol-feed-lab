@@ -15,3 +15,4 @@
 2025-09-24 log the raw payload
 2025-09-30 typeshed
 2025-10-13 hotfix
+2025-11-21 add cli flag

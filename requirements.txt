@@ -12,3 +12,4 @@
 2025-04-24 log the raw payload
 2025-07-07 wip
 2025-10-01 backoff on failure
+2025-11-22 move config to env

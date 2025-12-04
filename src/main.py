@@ -23,3 +23,4 @@
 2025-08-14 lint
 2025-09-04 handle empty response
 2025-09-24 revert
+2025-12-04 handle empty response

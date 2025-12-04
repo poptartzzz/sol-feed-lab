@@ -12,3 +12,4 @@
 2025-06-14 refactor parser
 2025-09-30 reduce noise
 2025-10-30 readme
+2025-12-04 handle empty response

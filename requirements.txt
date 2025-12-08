@@ -14,3 +14,4 @@
 2025-10-01 backoff on failure
 2025-11-22 move config to env
 2025-12-02 drop unused import
+2025-12-08 readme

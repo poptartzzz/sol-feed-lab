@@ -13,3 +13,4 @@
 2025-06-25 wip 2
 2025-09-24 add tests
 2025-10-01 typo
+2025-12-16 split the fetcher out

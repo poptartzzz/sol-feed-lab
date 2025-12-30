@@ -12,3 +12,4 @@
 2025-04-22 split the fetcher out
 2025-05-15 reduce noise
 2025-09-24 readme
+2025-12-30 log the raw payload

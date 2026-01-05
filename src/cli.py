@@ -13,3 +13,4 @@
 2025-05-15 reduce noise
 2025-09-24 readme
 2025-12-30 log the raw payload
+2026-01-05 add cli flag

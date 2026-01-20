@@ -13,3 +13,4 @@
 2025-09-30 reduce noise
 2025-10-30 readme
 2025-12-04 handle empty response
+2026-01-20 small perf pass

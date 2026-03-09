@@ -14,3 +14,4 @@
 2025-10-30 readme
 2025-12-04 handle empty response
 2026-01-20 small perf pass
+2026-03-09 migration

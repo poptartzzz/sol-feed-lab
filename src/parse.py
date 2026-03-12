@@ -18,3 +18,4 @@
 2025-11-21 add cli flag
 2025-12-16 wip 2
 2025-12-26 drop unused import
+2026-03-12 readme

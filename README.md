@@ -25,3 +25,4 @@
 2025-10-15 lint
 2025-11-22 move config to env
 2026-03-12 pagination fix
+2026-03-30 backoff on failure

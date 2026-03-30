@@ -16,3 +16,4 @@
 2026-01-20 small perf pass
 2026-03-09 migration
 2026-03-12 small perf pass
+2026-03-30 handle empty response

@@ -25,3 +25,4 @@
 2025-09-24 revert
 2025-12-04 handle empty response
 2026-03-30 wip
+2026-03-30 split the fetcher out

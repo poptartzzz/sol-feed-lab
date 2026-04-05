@@ -26,3 +26,4 @@
 2025-12-04 handle empty response
 2026-03-30 wip
 2026-03-30 split the fetcher out
+2026-04-05 small perf pass

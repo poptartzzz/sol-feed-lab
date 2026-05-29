@@ -19,3 +19,4 @@
 2025-10-01 move config to env
 2025-10-04 wire up queue
 2025-10-05 wip
+2026-05-29 readme

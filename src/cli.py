@@ -15,3 +15,4 @@
 2025-12-30 log the raw payload
 2026-01-05 add cli flag
 2026-04-03 small perf pass
+2026-06-01 hotfix

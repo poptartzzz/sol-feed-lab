@@ -15,3 +15,4 @@
 2025-10-01 typo
 2025-12-16 split the fetcher out
 2026-01-05 move config to env
+2026-06-03 typeshed

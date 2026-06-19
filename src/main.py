@@ -30,3 +30,4 @@
 2026-05-29 refactor parser
 2026-06-13 typeshed
 2026-06-19 reduce noise
+2026-06-19 readme

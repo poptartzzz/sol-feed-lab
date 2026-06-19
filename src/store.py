@@ -21,3 +21,4 @@
 2025-10-05 wip
 2026-05-29 readme
 2026-06-05 refactor parser
+2026-06-19 readme

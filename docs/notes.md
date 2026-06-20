@@ -21,3 +21,4 @@
 2026-04-22 handle empty response
 2026-05-21 docs
 2026-05-29 docs
+2026-06-20 cache the lookups

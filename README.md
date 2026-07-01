@@ -28,3 +28,4 @@
 2026-03-30 backoff on failure
 2026-04-22 metrics
 2026-06-03 fix timezone bug
+2026-07-01 readme

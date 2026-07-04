@@ -20,3 +20,4 @@
 2025-12-26 drop unused import
 2026-03-12 readme
 2026-04-05 typeshed
+2026-07-04 cache the lookups

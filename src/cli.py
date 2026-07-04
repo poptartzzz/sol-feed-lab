@@ -17,3 +17,4 @@
 2026-04-03 small perf pass
 2026-06-01 hotfix
 2026-07-02 move config to env
+2026-07-04 handle empty response

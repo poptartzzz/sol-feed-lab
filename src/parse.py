@@ -23,3 +23,4 @@
 2026-07-04 cache the lookups
 2026-07-12 handle empty response
 2026-07-12 add retry on 429
+2026-07-17 docs

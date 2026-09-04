@@ -23,3 +23,4 @@
 2026-05-29 docs
 2026-06-20 cache the lookups
 2026-08-30 split the fetcher out
+2026-09-04 add retry on 429

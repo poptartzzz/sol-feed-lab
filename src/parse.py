@@ -25,3 +25,4 @@
 2026-07-12 add retry on 429
 2026-07-17 docs
 2026-08-27 revert
+2026-09-16 add cli flag

@@ -34,3 +34,4 @@
 2026-08-27 typo
 2026-09-12 docs
 2026-09-17 bump deps
+2026-09-23 pagination fix

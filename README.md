@@ -30,3 +30,4 @@
 2026-06-03 fix timezone bug
 2026-07-01 readme
 2026-09-17 readme
+2026-10-12 handle empty response

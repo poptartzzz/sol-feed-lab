@@ -35,3 +35,4 @@
 2026-09-12 docs
 2026-09-17 bump deps
 2026-09-23 pagination fix
+2026-10-19 move config to env

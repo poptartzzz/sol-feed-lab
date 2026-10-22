@@ -19,3 +19,4 @@
 2026-06-19 cleanup dead code
 2026-07-12 lint
 2026-10-19 cleanup dead code
+2026-10-22 backoff on failure

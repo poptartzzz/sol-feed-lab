@@ -27,3 +27,4 @@
 2026-09-04 wire up queue
 2026-09-23 cache the lookups
 2026-10-18 add cli flag
+2026-10-30 cleanup dead code
